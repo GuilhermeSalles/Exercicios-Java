@@ -7,7 +7,7 @@ public class Exercicio3 {
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
-        int dia,mes,ano,anoAtual,V1,V2,V3 = 0;
+        int dia,mes,ano,anoAtual,V1,V2,V3;
         //Variaveis usadas para guardar a data de nascimento do usuário
         System.out.println("Digite a sua data de nascimento");
         System.out.print("Dia:");

@@ -7,7 +7,7 @@ public class Exercicio4 {
     public static void main(String[] args) {
       
         Scanner sc = new Scanner(System.in);
-        double salario, percentual, reajuste = 0;
+        double salario = 0, percentual = 0, reajuste = 0;
         System.out.print("Digite seu sálario mensal:");
         salario = sc.nextDouble();
         System.out.print("Digite o percentual para reajuste:");
